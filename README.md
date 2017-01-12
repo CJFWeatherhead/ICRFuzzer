@@ -1,5 +1,5 @@
 # ICRFuzzer
-A tiny php script to fuzz Internet Connection Records[ICR's] (amongst other things)
+A tiny php script to fuzz Internet Connection Records also known as ICR's
 
 The CSV file is based of the top 1000 sites by Alexa, it can use any CSV file, the one provided is just an example.
 
